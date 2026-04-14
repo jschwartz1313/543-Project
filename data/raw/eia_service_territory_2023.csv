@@ -1,0 +1,257 @@
+year,utility_number,utility_name,state,county
+2023,3278,AEP Texas Central Company,TX,Aransas
+2023,3278,AEP Texas Central Company,TX,Atascosa
+2023,3278,AEP Texas Central Company,TX,Bee
+2023,3278,AEP Texas Central Company,TX,Brooks
+2023,3278,AEP Texas Central Company,TX,Caldwell
+2023,3278,AEP Texas Central Company,TX,Calhoun
+2023,3278,AEP Texas Central Company,TX,Cameron
+2023,3278,AEP Texas Central Company,TX,Colorado
+2023,3278,AEP Texas Central Company,TX,Dewitt
+2023,3278,AEP Texas Central Company,TX,Dimmit
+2023,3278,AEP Texas Central Company,TX,Duval
+2023,3278,AEP Texas Central Company,TX,Edwards
+2023,3278,AEP Texas Central Company,TX,Frio
+2023,3278,AEP Texas Central Company,TX,Goliad
+2023,3278,AEP Texas Central Company,TX,Gonzales
+2023,3278,AEP Texas Central Company,TX,Guadalupe
+2023,3278,AEP Texas Central Company,TX,Hidalgo
+2023,3278,AEP Texas Central Company,TX,Jackson
+2023,3278,AEP Texas Central Company,TX,Jim Hogg
+2023,3278,AEP Texas Central Company,TX,Jim Wells
+2023,3278,AEP Texas Central Company,TX,Karnes
+2023,3278,AEP Texas Central Company,TX,Kenedy
+2023,3278,AEP Texas Central Company,TX,Kinney
+2023,3278,AEP Texas Central Company,TX,Kleberg
+2023,3278,AEP Texas Central Company,TX,La Salle
+2023,3278,AEP Texas Central Company,TX,Live Oak
+2023,3278,AEP Texas Central Company,TX,Matagorda
+2023,3278,AEP Texas Central Company,TX,Maverick
+2023,3278,AEP Texas Central Company,TX,Mcmullen
+2023,3278,AEP Texas Central Company,TX,Medina
+2023,3278,AEP Texas Central Company,TX,Nueces
+2023,3278,AEP Texas Central Company,TX,Real
+2023,3278,AEP Texas Central Company,TX,Refugio
+2023,3278,AEP Texas Central Company,TX,San Patricio
+2023,3278,AEP Texas Central Company,TX,Starr
+2023,3278,AEP Texas Central Company,TX,Uvalde
+2023,3278,AEP Texas Central Company,TX,Val Verde
+2023,3278,AEP Texas Central Company,TX,Victoria
+2023,3278,AEP Texas Central Company,TX,Webb
+2023,3278,AEP Texas Central Company,TX,Wharton
+2023,3278,AEP Texas Central Company,TX,Willacy
+2023,3278,AEP Texas Central Company,TX,Wilson
+2023,3278,AEP Texas Central Company,TX,Zapata
+2023,3278,AEP Texas Central Company,TX,Zavala
+2023,8901,CenterPoint Energy,TX,Austin
+2023,8901,CenterPoint Energy,TX,Brazoria
+2023,8901,CenterPoint Energy,TX,Chambers
+2023,8901,CenterPoint Energy,TX,Colorado
+2023,8901,CenterPoint Energy,TX,Fort Bend
+2023,8901,CenterPoint Energy,TX,Galveston
+2023,8901,CenterPoint Energy,TX,Harris
+2023,8901,CenterPoint Energy,TX,Liberty
+2023,8901,CenterPoint Energy,TX,Matagorda
+2023,8901,CenterPoint Energy,TX,Montgomery
+2023,8901,CenterPoint Energy,TX,Waller
+2023,8901,CenterPoint Energy,TX,Wharton
+2023,13830,Nueces Electric Cooperative,TX,Brooks
+2023,13830,Nueces Electric Cooperative,TX,Duval
+2023,13830,Nueces Electric Cooperative,TX,Jim Wells
+2023,13830,Nueces Electric Cooperative,TX,Kenedy
+2023,13830,Nueces Electric Cooperative,TX,Kleberg
+2023,13830,Nueces Electric Cooperative,TX,Live Oak
+2023,13830,Nueces Electric Cooperative,TX,Mcmullen
+2023,13830,Nueces Electric Cooperative,TX,Nueces
+2023,20404,AEP Texas North Company,TX,Archer
+2023,20404,AEP Texas North Company,TX,Baylor
+2023,20404,AEP Texas North Company,TX,Brewster
+2023,20404,AEP Texas North Company,TX,Briscoe
+2023,20404,AEP Texas North Company,TX,Brown
+2023,20404,AEP Texas North Company,TX,Callahan
+2023,20404,AEP Texas North Company,TX,Childress
+2023,20404,AEP Texas North Company,TX,Coke
+2023,20404,AEP Texas North Company,TX,Coleman
+2023,20404,AEP Texas North Company,TX,Concho
+2023,20404,AEP Texas North Company,TX,Cottle
+2023,20404,AEP Texas North Company,TX,Crane
+2023,20404,AEP Texas North Company,TX,Crockett
+2023,20404,AEP Texas North Company,TX,Dickens
+2023,20404,AEP Texas North Company,TX,Eastland
+2023,20404,AEP Texas North Company,TX,Edwards
+2023,20404,AEP Texas North Company,TX,Fisher
+2023,20404,AEP Texas North Company,TX,Foard
+2023,20404,AEP Texas North Company,TX,Gillespie
+2023,20404,AEP Texas North Company,TX,Hall
+2023,20404,AEP Texas North Company,TX,Hardeman
+2023,20404,AEP Texas North Company,TX,Haskell
+2023,20404,AEP Texas North Company,TX,Irion
+2023,20404,AEP Texas North Company,TX,Jeff Davis
+2023,20404,AEP Texas North Company,TX,Jones
+2023,20404,AEP Texas North Company,TX,Kent
+2023,20404,AEP Texas North Company,TX,Kimble
+2023,20404,AEP Texas North Company,TX,King
+2023,20404,AEP Texas North Company,TX,Knox
+2023,20404,AEP Texas North Company,TX,Mason
+2023,20404,AEP Texas North Company,TX,Mcculloch
+2023,20404,AEP Texas North Company,TX,Menard
+2023,20404,AEP Texas North Company,TX,Motley
+2023,20404,AEP Texas North Company,TX,Nolan
+2023,20404,AEP Texas North Company,TX,Pecos
+2023,20404,AEP Texas North Company,TX,Presidio
+2023,20404,AEP Texas North Company,TX,Reagan
+2023,20404,AEP Texas North Company,TX,Reeves
+2023,20404,AEP Texas North Company,TX,Runnels
+2023,20404,AEP Texas North Company,TX,Schleicher
+2023,20404,AEP Texas North Company,TX,Shackelford
+2023,20404,AEP Texas North Company,TX,Stephens
+2023,20404,AEP Texas North Company,TX,Sterling
+2023,20404,AEP Texas North Company,TX,Stonewall
+2023,20404,AEP Texas North Company,TX,Sutton
+2023,20404,AEP Texas North Company,TX,Taylor
+2023,20404,AEP Texas North Company,TX,Throckmorton
+2023,20404,AEP Texas North Company,TX,Tom Green
+2023,20404,AEP Texas North Company,TX,Upton
+2023,20404,AEP Texas North Company,TX,Wichita
+2023,20404,AEP Texas North Company,TX,Wilbarger
+2023,40051,Texas-New Mexico Power Co,TX,Archer
+2023,40051,Texas-New Mexico Power Co,TX,Baylor
+2023,40051,Texas-New Mexico Power Co,TX,Bosque
+2023,40051,Texas-New Mexico Power Co,TX,Brazoria
+2023,40051,Texas-New Mexico Power Co,TX,Clay
+2023,40051,Texas-New Mexico Power Co,TX,Collin
+2023,40051,Texas-New Mexico Power Co,TX,Comanche
+2023,40051,Texas-New Mexico Power Co,TX,Cooke
+2023,40051,Texas-New Mexico Power Co,TX,Coryell
+2023,40051,Texas-New Mexico Power Co,TX,Crockett
+2023,40051,Texas-New Mexico Power Co,TX,Dallas
+2023,40051,Texas-New Mexico Power Co,TX,Denton
+2023,40051,Texas-New Mexico Power Co,TX,Eastland
+2023,40051,Texas-New Mexico Power Co,TX,Erath
+2023,40051,Texas-New Mexico Power Co,TX,Fannin
+2023,40051,Texas-New Mexico Power Co,TX,Franklin
+2023,40051,Texas-New Mexico Power Co,TX,Galveston
+2023,40051,Texas-New Mexico Power Co,TX,Grayson
+2023,40051,Texas-New Mexico Power Co,TX,Hamilton
+2023,40051,Texas-New Mexico Power Co,TX,Hill
+2023,40051,Texas-New Mexico Power Co,TX,Hood
+2023,40051,Texas-New Mexico Power Co,TX,Hunt
+2023,40051,Texas-New Mexico Power Co,TX,Jack
+2023,40051,Texas-New Mexico Power Co,TX,Johnson
+2023,40051,Texas-New Mexico Power Co,TX,Lamar
+2023,40051,Texas-New Mexico Power Co,TX,Matagorda
+2023,40051,Texas-New Mexico Power Co,TX,Mclennan
+2023,40051,Texas-New Mexico Power Co,TX,Montague
+2023,40051,Texas-New Mexico Power Co,TX,Palo Pinto
+2023,40051,Texas-New Mexico Power Co,TX,Pecos
+2023,40051,Texas-New Mexico Power Co,TX,Rains
+2023,40051,Texas-New Mexico Power Co,TX,Red River
+2023,40051,Texas-New Mexico Power Co,TX,Reeves
+2023,40051,Texas-New Mexico Power Co,TX,Robertson
+2023,40051,Texas-New Mexico Power Co,TX,Somervell
+2023,40051,Texas-New Mexico Power Co,TX,Stephens
+2023,40051,Texas-New Mexico Power Co,TX,Terrell
+2023,40051,Texas-New Mexico Power Co,TX,Titus
+2023,40051,Texas-New Mexico Power Co,TX,Van Zandt
+2023,40051,Texas-New Mexico Power Co,TX,Ward
+2023,40051,Texas-New Mexico Power Co,TX,Winkler
+2023,40051,Texas-New Mexico Power Co,TX,Young
+2023,44372,Oncor Electric Delivery Company LLC,TX,Anderson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Andrews
+2023,44372,Oncor Electric Delivery Company LLC,TX,Angelina
+2023,44372,Oncor Electric Delivery Company LLC,TX,Archer
+2023,44372,Oncor Electric Delivery Company LLC,TX,Bastrop
+2023,44372,Oncor Electric Delivery Company LLC,TX,Baylor
+2023,44372,Oncor Electric Delivery Company LLC,TX,Bell
+2023,44372,Oncor Electric Delivery Company LLC,TX,Borden
+2023,44372,Oncor Electric Delivery Company LLC,TX,Bosque
+2023,44372,Oncor Electric Delivery Company LLC,TX,Brown
+2023,44372,Oncor Electric Delivery Company LLC,TX,Burnet
+2023,44372,Oncor Electric Delivery Company LLC,TX,Cherokee
+2023,44372,Oncor Electric Delivery Company LLC,TX,Clay
+2023,44372,Oncor Electric Delivery Company LLC,TX,Coke
+2023,44372,Oncor Electric Delivery Company LLC,TX,Coleman
+2023,44372,Oncor Electric Delivery Company LLC,TX,Collin
+2023,44372,Oncor Electric Delivery Company LLC,TX,Comanche
+2023,44372,Oncor Electric Delivery Company LLC,TX,Concho
+2023,44372,Oncor Electric Delivery Company LLC,TX,Cooke
+2023,44372,Oncor Electric Delivery Company LLC,TX,Coryell
+2023,44372,Oncor Electric Delivery Company LLC,TX,Crane
+2023,44372,Oncor Electric Delivery Company LLC,TX,Culberson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Dallas
+2023,44372,Oncor Electric Delivery Company LLC,TX,Dawson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Delta
+2023,44372,Oncor Electric Delivery Company LLC,TX,Denton
+2023,44372,Oncor Electric Delivery Company LLC,TX,Eastland
+2023,44372,Oncor Electric Delivery Company LLC,TX,Ector
+2023,44372,Oncor Electric Delivery Company LLC,TX,Ellis
+2023,44372,Oncor Electric Delivery Company LLC,TX,Erath
+2023,44372,Oncor Electric Delivery Company LLC,TX,Falls
+2023,44372,Oncor Electric Delivery Company LLC,TX,Fannin
+2023,44372,Oncor Electric Delivery Company LLC,TX,Fisher
+2023,44372,Oncor Electric Delivery Company LLC,TX,Freestone
+2023,44372,Oncor Electric Delivery Company LLC,TX,Gaines
+2023,44372,Oncor Electric Delivery Company LLC,TX,Glasscock
+2023,44372,Oncor Electric Delivery Company LLC,TX,Grayson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Henderson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Hidalgo
+2023,44372,Oncor Electric Delivery Company LLC,TX,Hill
+2023,44372,Oncor Electric Delivery Company LLC,TX,Hood
+2023,44372,Oncor Electric Delivery Company LLC,TX,Hopkins
+2023,44372,Oncor Electric Delivery Company LLC,TX,Houston
+2023,44372,Oncor Electric Delivery Company LLC,TX,Howard
+2023,44372,Oncor Electric Delivery Company LLC,TX,Hunt
+2023,44372,Oncor Electric Delivery Company LLC,TX,Irion
+2023,44372,Oncor Electric Delivery Company LLC,TX,Jack
+2023,44372,Oncor Electric Delivery Company LLC,TX,Johnson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Kaufman
+2023,44372,Oncor Electric Delivery Company LLC,TX,Kent
+2023,44372,Oncor Electric Delivery Company LLC,TX,Lamar
+2023,44372,Oncor Electric Delivery Company LLC,TX,Lampasas
+2023,44372,Oncor Electric Delivery Company LLC,TX,Leon
+2023,44372,Oncor Electric Delivery Company LLC,TX,Limestone
+2023,44372,Oncor Electric Delivery Company LLC,TX,Loving
+2023,44372,Oncor Electric Delivery Company LLC,TX,Lynn
+2023,44372,Oncor Electric Delivery Company LLC,TX,Martin
+2023,44372,Oncor Electric Delivery Company LLC,TX,Mason
+2023,44372,Oncor Electric Delivery Company LLC,TX,Mcculloch
+2023,44372,Oncor Electric Delivery Company LLC,TX,Mclennan
+2023,44372,Oncor Electric Delivery Company LLC,TX,Menard
+2023,44372,Oncor Electric Delivery Company LLC,TX,Midland
+2023,44372,Oncor Electric Delivery Company LLC,TX,Milam
+2023,44372,Oncor Electric Delivery Company LLC,TX,Mills
+2023,44372,Oncor Electric Delivery Company LLC,TX,Mitchell
+2023,44372,Oncor Electric Delivery Company LLC,TX,Montague
+2023,44372,Oncor Electric Delivery Company LLC,TX,Nacogdoches
+2023,44372,Oncor Electric Delivery Company LLC,TX,Navarro
+2023,44372,Oncor Electric Delivery Company LLC,TX,Nolan
+2023,44372,Oncor Electric Delivery Company LLC,TX,Palo Pinto
+2023,44372,Oncor Electric Delivery Company LLC,TX,Parker
+2023,44372,Oncor Electric Delivery Company LLC,TX,Pecos
+2023,44372,Oncor Electric Delivery Company LLC,TX,Reagan
+2023,44372,Oncor Electric Delivery Company LLC,TX,Red River
+2023,44372,Oncor Electric Delivery Company LLC,TX,Reeves
+2023,44372,Oncor Electric Delivery Company LLC,TX,Rockwall
+2023,44372,Oncor Electric Delivery Company LLC,TX,Rusk
+2023,44372,Oncor Electric Delivery Company LLC,TX,San Saba
+2023,44372,Oncor Electric Delivery Company LLC,TX,Scurry
+2023,44372,Oncor Electric Delivery Company LLC,TX,Shackelford
+2023,44372,Oncor Electric Delivery Company LLC,TX,Smith
+2023,44372,Oncor Electric Delivery Company LLC,TX,Somervell
+2023,44372,Oncor Electric Delivery Company LLC,TX,Stephens
+2023,44372,Oncor Electric Delivery Company LLC,TX,Sterling
+2023,44372,Oncor Electric Delivery Company LLC,TX,Tarrant
+2023,44372,Oncor Electric Delivery Company LLC,TX,Terry
+2023,44372,Oncor Electric Delivery Company LLC,TX,Tom Green
+2023,44372,Oncor Electric Delivery Company LLC,TX,Travis
+2023,44372,Oncor Electric Delivery Company LLC,TX,Trinity
+2023,44372,Oncor Electric Delivery Company LLC,TX,Upton
+2023,44372,Oncor Electric Delivery Company LLC,TX,Van Zandt
+2023,44372,Oncor Electric Delivery Company LLC,TX,Ward
+2023,44372,Oncor Electric Delivery Company LLC,TX,Wichita
+2023,44372,Oncor Electric Delivery Company LLC,TX,Wilbarger
+2023,44372,Oncor Electric Delivery Company LLC,TX,Williamson
+2023,44372,Oncor Electric Delivery Company LLC,TX,Winkler
+2023,44372,Oncor Electric Delivery Company LLC,TX,Wise
+2023,44372,Oncor Electric Delivery Company LLC,TX,Wood
+2023,44372,Oncor Electric Delivery Company LLC,TX,Young

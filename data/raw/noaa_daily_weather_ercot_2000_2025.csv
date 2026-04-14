@@ -1,0 +1,156 @@
+year,utility_number,utility_name,station_id,station_name,freeze_days,sub20f_days,precip_days,snow_days,min_temp_c,total_precip_mm
+2000,3278,AEP Texas Central Company,USW00012924,Corpus Christi,3,0,12,0,-2.2,71.4
+2001,3278,AEP Texas Central Company,USW00012924,Corpus Christi,1,0,19,0,-0.6,104.9
+2002,3278,AEP Texas Central Company,USW00012924,Corpus Christi,4,0,9,0,-4.4,95.9
+2003,3278,AEP Texas Central Company,USW00012924,Corpus Christi,4,0,11,0,-1.1,74.6
+2004,3278,AEP Texas Central Company,USW00012924,Corpus Christi,4,0,11,2,-5.6,117.6
+2005,3278,AEP Texas Central Company,USW00012924,Corpus Christi,0,0,13,0,0.6,104.8
+2006,3278,AEP Texas Central Company,USW00012924,Corpus Christi,2,0,9,0,-3.9,61.7
+2007,3278,AEP Texas Central Company,USW00012924,Corpus Christi,4,0,12,0,-2.2,127.4
+2008,3278,AEP Texas Central Company,USW00012924,Corpus Christi,3,0,11,0,-1.1,60.1
+2009,3278,AEP Texas Central Company,USW00012924,Corpus Christi,3,0,11,0,-1.1,105.0
+2010,3278,AEP Texas Central Company,USW00012924,Corpus Christi,5,0,15,0,-4.4,198.3
+2011,3278,AEP Texas Central Company,USW00012924,Corpus Christi,12,0,12,0,-3.9,135.3
+2012,3278,AEP Texas Central Company,USW00012924,Corpus Christi,2,0,11,0,-1.7,116.4
+2013,3278,AEP Texas Central Company,USW00012924,Corpus Christi,0,0,8,0,1.1,50.5
+2014,3278,AEP Texas Central Company,USW00012924,Corpus Christi,6,0,8,0,-1.6,49.9
+2015,3278,AEP Texas Central Company,USW00012924,Corpus Christi,1,0,14,0,0.0,110.4
+2016,3278,AEP Texas Central Company,USW00012924,Corpus Christi,2,0,11,0,0.0,114.4
+2017,3278,AEP Texas Central Company,USW00012924,Corpus Christi,5,0,17,1,-3.2,183.7
+2018,3278,AEP Texas Central Company,USW00012924,Corpus Christi,6,0,11,0,-2.7,64.8
+2019,3278,AEP Texas Central Company,USW00012924,Corpus Christi,2,0,15,0,-1.6,163.6
+2020,3278,AEP Texas Central Company,USW00012924,Corpus Christi,2,0,11,0,-0.5,72.8
+2021,3278,AEP Texas Central Company,USW00012924,Corpus Christi,10,2,8,0,-8.2,61.0
+2022,3278,AEP Texas Central Company,USW00012924,Corpus Christi,13,0,8,0,-5.5,73.1
+2023,3278,AEP Texas Central Company,USW00012924,Corpus Christi,1,0,8,0,0.0,34.8
+2024,3278,AEP Texas Central Company,USW00012924,Corpus Christi,3,0,16,0,-4.3,128.6
+2025,3278,AEP Texas Central Company,USW00012924,Corpus Christi,5,0,12,0,-6.0,71.4
+2000,8901,CenterPoint Energy,USW00012918,Houston Hobby,3,0,16,0,-1.1,159.2
+2001,8901,CenterPoint Energy,USW00012918,Houston Hobby,5,0,25,0,-1.7,315.4
+2002,8901,CenterPoint Energy,USW00012918,Houston Hobby,4,0,15,0,-3.9,207.2
+2003,8901,CenterPoint Energy,USW00012918,Houston Hobby,4,0,19,0,-2.2,194.7
+2004,8901,CenterPoint Energy,USW00012918,Houston Hobby,4,0,24,0,-2.2,296.5
+2005,8901,CenterPoint Energy,USW00012918,Houston Hobby,0,0,18,0,1.1,189.4
+2006,8901,CenterPoint Energy,USW00012918,Houston Hobby,2,0,20,0,-1.1,190.4
+2007,8901,CenterPoint Energy,USW00012918,Houston Hobby,1,0,26,0,-1.7,246.7
+2008,8901,CenterPoint Energy,USW00012918,Houston Hobby,2,0,26,0,0.0,289.3
+2009,8901,CenterPoint Energy,USW00012918,Houston Hobby,3,0,20,0,-2.8,216.3
+2010,8901,CenterPoint Energy,USW00012918,Houston Hobby,10,0,17,0,-6.1,292.7
+2011,8901,CenterPoint Energy,USW00012918,Houston Hobby,12,0,16,0,-5.0,219.6
+2012,8901,CenterPoint Energy,USW00012918,Houston Hobby,1,0,22,0,-0.6,455.3
+2013,8901,CenterPoint Energy,USW00012918,Houston Hobby,2,0,16,0,-0.6,143.4
+2014,8901,CenterPoint Energy,USW00012918,Houston Hobby,8,0,21,0,-3.8,184.0
+2015,8901,CenterPoint Energy,USW00012918,Houston Hobby,1,0,20,0,-1.0,238.3
+2016,8901,CenterPoint Energy,USW00012918,Houston Hobby,1,0,24,0,0.0,199.9
+2017,8901,CenterPoint Energy,USW00012918,Houston Hobby,5,0,21,0,-4.9,274.0
+2018,8901,CenterPoint Energy,USW00012918,Houston Hobby,9,1,24,0,-7.1,341.7
+2019,8901,CenterPoint Energy,USW00012918,Houston Hobby,1,0,21,0,0.0,210.9
+2020,8901,CenterPoint Energy,USW00012918,Houston Hobby,1,0,25,0,0.0,385.3
+2021,8901,CenterPoint Energy,USW00012918,Houston Hobby,6,2,14,0,-9.3,139.0
+2022,8901,CenterPoint Energy,USW00012918,Houston Hobby,11,1,16,0,-8.2,170.7
+2023,8901,CenterPoint Energy,USW00012918,Houston Hobby,0,0,21,0,2.8,188.2
+2024,8901,CenterPoint Energy,USW00012918,Houston Hobby,4,0,24,0,-6.6,341.6
+2025,8901,CenterPoint Energy,USW00012918,Houston Hobby,10,1,14,1,-7.7,252.7
+2001,13830,Nueces Electric Cooperative,USW00012926,Alice,2,0,16,0,-1.1,72.0
+2002,13830,Nueces Electric Cooperative,USW00012926,Alice,2,0,10,0,-2.2,124.7
+2003,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,17,0,1.1,159.7
+2004,13830,Nueces Electric Cooperative,USW00012926,Alice,2,0,16,2,-1.7,98.7
+2005,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,13,0,1.1,131.9
+2006,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,0,0,1.7,0.0
+2007,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,0,0,0.6,0.0
+2008,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,3,0,2.8,18.0
+2009,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,9,0,2.8,132.8
+2010,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,11,0,2.2,165.0
+2011,13830,Nueces Electric Cooperative,USW00012926,Alice,5,0,13,0,-2.7,145.4
+2012,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,9,0,2.8,114.0
+2013,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,10,0,2.2,67.4
+2014,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,11,0,0.6,57.4
+2015,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,14,0,1.7,132.4
+2016,13830,Nueces Electric Cooperative,USW00012926,Alice,1,1,11,0,-11.0,65.2
+2017,13830,Nueces Electric Cooperative,USW00012926,Alice,2,0,14,0,-2.7,122.3
+2018,13830,Nueces Electric Cooperative,USW00012926,Alice,4,0,9,0,-0.5,61.1
+2019,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,19,0,4.4,94.2
+2020,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,7,0,2.8,56.9
+2021,13830,Nueces Electric Cooperative,USW00012926,Alice,4,0,2,0,-6.6,85.3
+2022,13830,Nueces Electric Cooperative,USW00012926,Alice,1,0,6,0,-1.0,54.8
+2023,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,4,0,6.1,88.7
+2024,13830,Nueces Electric Cooperative,USW00012926,Alice,2,0,7,0,-2.1,24.6
+2025,13830,Nueces Electric Cooperative,USW00012926,Alice,0,0,7,0,3.3,31.5
+2000,20404,AEP Texas North Company,USW00013962,Abilene,35,2,8,1,-7.2,38.6
+2001,20404,AEP Texas North Company,USW00013962,Abilene,41,0,11,0,-5.6,121.0
+2002,20404,AEP Texas North Company,USW00013962,Abilene,37,5,9,0,-8.9,75.5
+2003,20404,AEP Texas North Company,USW00013962,Abilene,40,6,5,1,-9.4,28.6
+2004,20404,AEP Texas North Company,USW00013962,Abilene,40,3,11,5,-9.4,134.1
+2005,20404,AEP Texas North Company,USW00013962,Abilene,29,5,15,0,-12.2,75.0
+2006,20404,AEP Texas North Company,USW00013962,Abilene,34,5,9,0,-8.9,71.9
+2007,20404,AEP Texas North Company,USW00013962,Abilene,54,4,10,2,-8.9,58.3
+2008,20404,AEP Texas North Company,USW00013962,Abilene,45,8,4,0,-10.0,22.0
+2009,20404,AEP Texas North Company,USW00013962,Abilene,47,7,8,3,-11.1,59.3
+2010,20404,AEP Texas North Company,USW00013962,Abilene,42,4,11,2,-10.6,166.0
+2011,20404,AEP Texas North Company,USW00013962,Abilene,48,12,15,4,-13.9,90.0
+2012,20404,AEP Texas North Company,USW00013962,Abilene,27,2,9,2,-8.3,114.8
+2013,20404,AEP Texas North Company,USW00013962,Abilene,48,6,11,3,-9.9,76.2
+2014,20404,AEP Texas North Company,USW00013962,Abilene,37,10,5,2,-12.1,26.1
+2015,20404,AEP Texas North Company,USW00013962,Abilene,36,3,15,6,-8.8,144.9
+2016,20404,AEP Texas North Company,USW00013962,Abilene,30,3,7,0,-12.1,53.5
+2017,20404,AEP Texas North Company,USW00013962,Abilene,32,4,9,0,-12.7,112.8
+2018,20404,AEP Texas North Company,USW00013962,Abilene,46,10,10,2,-14.9,153.9
+2019,20404,AEP Texas North Company,USW00013962,Abilene,31,0,10,1,-5.5,52.9
+2020,20404,AEP Texas North Company,USW00013962,Abilene,36,2,15,3,-9.3,174.7
+2021,20404,AEP Texas North Company,USW00013962,Abilene,37,7,7,3,-19.9,41.5
+2022,20404,AEP Texas North Company,USW00013962,Abilene,50,11,9,2,-12.1,68.3
+2023,20404,AEP Texas North Company,USW00013962,Abilene,26,0,14,0,-6.6,89.7
+2024,20404,AEP Texas North Company,USW00013962,Abilene,21,6,10,0,-13.2,104.0
+2025,20404,AEP Texas North Company,USW00013962,Abilene,39,7,2,1,-12.7,22.9
+2000,40051,Texas-New Mexico Power Co,USW00003904,College Station,18,1,15,0,-7.2,198.3
+2001,40051,Texas-New Mexico Power Co,USW00003904,College Station,16,0,22,0,-4.4,192.3
+2002,40051,Texas-New Mexico Power Co,USW00003904,College Station,24,2,16,0,-8.3,274.8
+2003,40051,Texas-New Mexico Power Co,USW00003904,College Station,18,0,16,0,-4.4,243.8
+2004,40051,Texas-New Mexico Power Co,USW00003904,College Station,14,0,24,0,-3.9,292.9
+2005,40051,Texas-New Mexico Power Co,USW00003904,College Station,9,0,17,0,-4.4,254.0
+2006,40051,Texas-New Mexico Power Co,USW00003904,College Station,11,0,17,0,-3.3,276.9
+2007,40051,Texas-New Mexico Power Co,USW00003904,College Station,16,0,19,0,-6.1,227.1
+2008,40051,Texas-New Mexico Power Co,USW00003904,College Station,16,0,19,0,-3.9,156.3
+2009,40051,Texas-New Mexico Power Co,USW00003904,College Station,18,0,16,0,-4.4,106.5
+2010,40051,Texas-New Mexico Power Co,USW00003904,College Station,24,2,16,0,-7.8,165.5
+2011,40051,Texas-New Mexico Power Co,USW00003904,College Station,21,3,17,0,-7.2,179.0
+2012,40051,Texas-New Mexico Power Co,USW00003904,College Station,11,0,18,0,-2.2,402.1
+2013,40051,Texas-New Mexico Power Co,USW00003904,College Station,11,0,15,0,-2.1,175.7
+2014,40051,Texas-New Mexico Power Co,USW00003904,College Station,19,1,15,0,-7.1,121.2
+2015,40051,Texas-New Mexico Power Co,USW00003904,College Station,11,0,21,0,-5.5,393.7
+2016,40051,Texas-New Mexico Power Co,USW00003904,College Station,10,0,14,0,-5.5,137.2
+2017,40051,Texas-New Mexico Power Co,USW00003904,College Station,9,1,17,0,-8.2,266.8
+2018,40051,Texas-New Mexico Power Co,USW00003904,College Station,13,2,25,0,-9.3,318.4
+2019,40051,Texas-New Mexico Power Co,USW00003904,College Station,5,0,21,0,-2.1,190.3
+2020,40051,Texas-New Mexico Power Co,USW00003904,College Station,3,0,23,0,-1.6,234.7
+2021,40051,Texas-New Mexico Power Co,USW00003904,College Station,14,3,14,0,-14.9,174.2
+2022,40051,Texas-New Mexico Power Co,USW00003904,College Station,24,3,17,0,-9.9,306.3
+2023,40051,Texas-New Mexico Power Co,USW00003904,College Station,6,0,14,0,-1.0,175.4
+2024,40051,Texas-New Mexico Power Co,USW00003904,College Station,11,2,23,0,-8.8,370.0
+2025,40051,Texas-New Mexico Power Co,USW00003904,College Station,15,0,17,0,-6.6,128.0
+2000,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,23,0,12,0,-6.1,179.6
+2001,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,23,0,24,0,-5.6,338.0
+2002,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,24,1,12,0,-7.2,254.6
+2003,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,25,1,13,0,-6.7,106.6
+2004,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,23,1,16,2,-7.8,240.9
+2005,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,17,2,17,1,-8.9,174.0
+2006,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,14,0,11,0,-5.0,269.0
+2007,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,27,1,19,2,-7.8,190.9
+2008,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,28,0,10,0,-5.6,66.7
+2009,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,25,0,13,4,-6.1,106.5
+2010,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,32,3,18,2,-10.0,193.7
+2011,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,26,7,18,4,-10.0,193.3
+2012,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,17,0,13,1,-5.0,279.9
+2013,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,25,0,14,2,-6.6,205.4
+2014,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,27,4,11,1,-9.3,62.1
+2015,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,19,1,21,3,-7.7,325.1
+2016,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,16,2,9,0,-8.2,103.3
+2017,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,8,2,13,1,-9.3,232.5
+2018,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,23,3,20,0,-9.3,386.7
+2019,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,11,0,12,0,-3.8,123.6
+2020,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,10,0,19,0,-2.1,360.4
+2021,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,16,4,15,3,-16.6,91.8
+2022,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,42,4,12,1,-11.6,97.5
+2023,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,13,0,14,2,-3.8,193.9
+2024,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,15,4,23,1,-12.1,291.0
+2025,44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,33,3,9,2,-10.5,205.8

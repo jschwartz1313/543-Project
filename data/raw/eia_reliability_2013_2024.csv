@@ -1,0 +1,73 @@
+year,utility_number,utility_name,state,saidi_with_med_minutes,saifi_with_med,saidi_without_med_minutes,saifi_without_med,customers
+2013,3278,AEP Texas Central Company,TX,185,1.74,152,1.55,803426
+2014,3278,AEP Texas Central Company,TX,182.3,1.887,136.7,1.449,813976
+2015,3278,AEP Texas Central Company,TX,260.9,2.023,176.9,1.681,823421
+2016,3278,AEP Texas Central Company,TX,282.4,1.911,157.9,1.589,829475
+2017,3278,AEP Texas Central Company,TX,2050.9,2.218,168.5,1.573,835464
+2018,3278,AEP Texas Central Company,TX,196.3,1.806,166,1.679,844645
+2019,3278,AEP Texas Central Company,TX,233.8,1.82,167,1.623,855355
+2020,3278,AEP Texas Central Company,TX,515.6,1.882,170.1,1.474,869844
+2021,3278,AEP Texas Central Company,TX,1901.1,3.363,186.3,1.608,883117
+2022,3278,AEP Texas Central Company,TX,208.9,2.113,166.2,1.485,894484
+2023,3278,AEP Texas Central Company,TX,408.9,2.018,169.7,1.528,901182
+2024,3278,AEP Texas Central Company,TX,228.5,1.634,149.6,1.46,913164
+2013,8901,CenterPoint Energy,TX,140.187,1.58,107.874,1.399,2436565
+2014,8901,CenterPoint Energy,TX,120.279,1.414,104.681,1.244,2495090
+2015,8901,CenterPoint Energy,TX,258.844,1.983,134.755,1.335,2394231
+2016,8901,CenterPoint Energy,TX,225.63,1.83,131.13,1.32,2417035
+2017,8901,CenterPoint Energy,TX,454.19,1.8,130.61,1.26,2468148
+2018,8901,CenterPoint Energy,TX,178.427,1.619,140.229,1.37,2517201
+2019,8901,CenterPoint Energy,TX,227.608,1.767,140.939,1.303,2564204
+2020,8901,CenterPoint Energy,TX,226.431,1.776,138.213,1.316,2610562
+2021,8901,CenterPoint Energy,TX,2365.551,4.665,149.913,1.419,2667346
+2022,8901,CenterPoint Energy,TX,231.61,1.937,170.15,1.573,2722082
+2023,8901,CenterPoint Energy,TX,353.8,2.143,144.292,1.583,2761886
+2024,8901,CenterPoint Energy,TX,4315.811,3.7,150.088,1.623,2847806
+2013,13830,Nueces Electric Cooperative,TX,,,,,19000
+2014,13830,Nueces Electric Cooperative,TX,,,,,19000
+2015,13830,Nueces Electric Cooperative,TX,459.575,2.659,197.041,1.368,19203
+2016,13830,Nueces Electric Cooperative,TX,711.231,2.133,152.42,1.128,19331
+2017,13830,"Nueces Electric Coop, Inc",TX,567.341,2.7,166.454,1.368,18447
+2018,13830,Nueces Electric Cooperative,TX,261.069,2.056,155.085,1.25,19097
+2019,13830,Nueces Electric Cooperative,TX,360.348,2.349,176.513,1.435,19302
+2020,13830,Nueces Electric Cooperative,TX,416.471,2.354,115.43,0.988,19562
+2021,13830,Nueces Electric Cooperative,TX,1523.872,4.457,180.27,1.23,19227
+2022,13830,Nueces Electric Cooperative,TX,348.348,2.642,175.851,1.253,20256
+2023,13830,Nueces Electric Cooperative,TX,418.14,3.413,159.96,1.348,20646
+2024,13830,Nueces Electric Cooperative,TX,437.147,3.272,170.894,1.281,20733
+2013,20404,AEP Texas North Company,TX,227,1.514,88,1.133,187749
+2014,20404,AEP Texas North Company,TX,117.1,1.292,82.1,1.123,188988
+2015,20404,AEP Texas North Company,TX,235.4,1.491,107.2,1.128,188981
+2016,20404,AEP Texas North Company,TX,111,1.314,104.9,1.279,188725
+2017,20404,AEP Texas North Company,TX,171.4,1.58,115.7,1.439,189943
+2018,20404,AEP Texas North Company,TX,182,1.567,136,1.399,191798
+2019,20404,AEP Texas North Company,TX,200.7,1.469,111.2,1.134,193284
+2020,20404,AEP Texas North Company,TX,280.1,1.674,114.1,1.25,195031
+2021,20404,AEP Texas North Company,TX,1136.6,2.724,113.9,1.235,196515
+2022,20404,AEP Texas North Company,TX,120.6,1.266,120.6,1.266,197430
+2023,20404,AEP Texas North Company,TX,144.9,1.239,105.9,1.171,198209
+2024,20404,AEP Texas North Company,TX,108,1.15,102.6,1.132,199119
+2013,40051,Texas-New Mexico Power Co,TX,,,,,229512
+2014,40051,Texas-New Mexico Power Co,TX,,,,,234340
+2015,40051,Texas-New Mexico Power Co,TX,,,,,235939
+2016,40051,Texas-New Mexico Power Co,TX,,,,,238737
+2017,40051,Texas-New Mexico Power Co,TX,,,,,241892
+2018,40051,Texas-New Mexico Power Co,TX,,,,,242548
+2019,40051,Texas-New Mexico Power Co,TX,,,,,246383
+2020,40051,Texas-New Mexico Power Co,TX,,,,,251898
+2021,40051,Texas-New Mexico Power Co,TX,203.7,1.39,102.3,1.09,256355
+2022,40051,Texas-New Mexico Power Co,TX,101.643,1.164,92.733,1.124,259886
+2023,40051,Texas-New Mexico Power Co,TX,129.74,1.29,101.2,1.21,263647
+2024,40051,Texas-New Mexico Power Co,TX,1946.11,2.585,118.37,1.407,268934
+2013,44372,Oncor Electric Delivery Company LLC,TX,,,,,3223735
+2014,44372,Oncor Electric Delivery Company LLC,TX,296.3,1.66,125.9,1.24,3272392
+2015,44372,Oncor Electric Delivery Company LLC,TX,267.3,1.88,146.7,1.36,3321366
+2016,44372,Oncor Electric Delivery Company LLC,TX,202,1.72,145.9,1.43,3377896
+2017,44372,Oncor Electric Delivery Company LLC,TX,204.89,1.69,143.79,1.49,3412609
+2018,44372,Oncor Electric Delivery Company LLC,TX,,,,,3502276
+2019,44372,Oncor Electric Delivery Company LLC,TX,,,,,3567787
+2020,44372,Oncor Electric Delivery Company LLC,TX,,,,,3694894
+2021,44372,Oncor Electric Delivery Company LLC,TX,558.81,2.03,68.75,0.82,3717866
+2022,44372,Oncor Electric Delivery Company LLC,TX,231.9,1.62,67.45,0.78,3781870
+2023,44372,Oncor Electric Delivery Company LLC,TX,325.52,1.52,62.38,0.68,3929551
+2024,44372,Oncor Electric Delivery Company LLC,TX,532.48,1.71,67.28,0.77,4013062

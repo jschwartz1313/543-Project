@@ -1,0 +1,7 @@
+utility_number,utility_name,station_id,requested_station_name,latitude,longitude,elevation_m,station_name
+3278,AEP Texas Central Company,USW00012924,Corpus Christi,27.7839,-97.5114,43.3,CORPUS CHRISTI
+8901,CenterPoint Energy,USW00012918,Houston Hobby,29.6458,-95.2822,13.1,HOUSTON WILLIAM P HOBBY AP
+13830,Nueces Electric Cooperative,USW00012926,Alice,27.6878,-97.2917,4.6,CORPUS CHRISTI NAS
+20404,AEP Texas North Company,USW00013962,Abilene,32.4106,-99.6819,544.7,ABILENE RGNL AP
+40051,Texas-New Mexico Power Co,USW00003904,College Station,30.5911,-96.3631,96.0,COLLEGE STN EASTERWOOD FLD
+44372,Oncor Electric Delivery Company LLC,USW00013960,Dallas Love Field,32.8383,-96.8358,147.5,DALLAS FAA AP

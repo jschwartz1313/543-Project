@@ -105,6 +105,15 @@ def build_utility_panel(data: dict[str, pd.DataFrame]) -> pd.DataFrame:
     panel = reliability.merge(
         utility_storm, on=["utility_number", "utility_name", "year"], how="left"
     ).merge(weather, on=["utility_number", "year"], how="left", suffixes=("", "_weather"))
+    for col in [
+        "counties_in_territory",
+        "winter_event_count",
+        "storm_property_damage_usd",
+        "storm_crop_damage_usd",
+        "direct_deaths",
+        "direct_injuries",
+    ]:
+        panel[col] = panel[col].fillna(0)
     panel = panel.merge(
         delivery,
         on=["utility_number", "year"],

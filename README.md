@@ -45,16 +45,16 @@ The utility focus is the core ERCOT delivery footprint represented in the EIA fi
 - Aon 2025 Climate and Catastrophe Insight report
   - Used as background context on catastrophe and climate risk rather than as a modeling dataset
 
-All project-scoped raw extracts are saved under [data/raw](/Users/jakeschwartz/543-Project/data/raw), with merged outputs under [data/processed](/Users/jakeschwartz/543-Project/data/processed).
+All project-scoped raw extracts are saved under [data/raw](data/raw), with merged outputs under [data/processed](data/processed).
 
 ## Repository layout
 
-- [scripts/download_data.py](/Users/jakeschwartz/543-Project/scripts/download_data.py): downloads and filters the official datasets into ERCOT-scoped raw CSVs.
-- [scripts/build_analysis.py](/Users/jakeschwartz/543-Project/scripts/build_analysis.py): creates the merged utility panel, figures, and summary artifacts.
-- [docs/analysis_summary.md](/Users/jakeschwartz/543-Project/docs/analysis_summary.md): concise write-up of the current findings.
-- [data/raw](/Users/jakeschwartz/543-Project/data/raw): project-scoped intermediate extracts from the official sources.
-- [data/processed](/Users/jakeschwartz/543-Project/data/processed): cleaned analytical tables used by the figures and summary.
-- [outputs/figures](/Users/jakeschwartz/543-Project/outputs/figures): generated plots.
+- [scripts/download_data.py](scripts/download_data.py): downloads and filters the official datasets into ERCOT-scoped raw CSVs.
+- [scripts/build_analysis.py](scripts/build_analysis.py): creates the merged utility panel, figures, and summary artifacts.
+- [docs/analysis_summary.md](docs/analysis_summary.md): concise write-up of the current findings.
+- [data/raw](data/raw): project-scoped intermediate extracts from the official sources.
+- [data/processed](data/processed): cleaned analytical tables used by the figures and summary.
+- [outputs/figures](outputs/figures): generated plots.
 
 ## Method
 
@@ -79,7 +79,6 @@ This is intentionally a pragmatic first pass. It emphasizes reproducibility and 
 From the repo root:
 
 ```bash
-cd /Users/jakeschwartz/543-Project
 python3 scripts/download_data.py
 python3 scripts/build_analysis.py
 ```
@@ -89,13 +88,13 @@ What each command does:
 - `python3 scripts/download_data.py`
   - Downloads the official source files
   - Filters them to the ERCOT/Texas project scope
-  - Saves project-scoped raw files to [data/raw](/Users/jakeschwartz/543-Project/data/raw)
+  - Saves project-scoped raw files to [data/raw](data/raw)
 
 - `python3 scripts/build_analysis.py`
   - Reads the raw extracts
   - Builds the utility-year analytical panel
   - Creates figures and scenario tables
-  - Writes the summary to [docs/analysis_summary.md](/Users/jakeschwartz/543-Project/docs/analysis_summary.md)
+  - Writes the summary to [docs/analysis_summary.md](docs/analysis_summary.md)
 
 If you already have the raw data and only want to rebuild figures and outputs, you can run only:
 
@@ -107,35 +106,35 @@ python3 scripts/build_analysis.py
 
 If you are opening the repo for the first time, start here:
 
-- [docs/analysis_summary.md](/Users/jakeschwartz/543-Project/docs/analysis_summary.md) for the quick narrative version
-- [data/processed/ercot_utility_winter_risk_panel.csv](/Users/jakeschwartz/543-Project/data/processed/ercot_utility_winter_risk_panel.csv) for the main merged analytical dataset
-- [outputs/figures/ercot_utility_saidi_timeseries.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_utility_saidi_timeseries.png) for utility outage trends
-- [outputs/figures/ercot_county_winter_storm_choropleth.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_county_winter_storm_choropleth.png) for the geographic storm exposure view
+- [docs/analysis_summary.md](docs/analysis_summary.md) for the quick narrative version
+- [data/processed/ercot_utility_winter_risk_panel.csv](data/processed/ercot_utility_winter_risk_panel.csv) for the main merged analytical dataset
+- [outputs/figures/ercot_utility_saidi_timeseries.png](outputs/figures/ercot_utility_saidi_timeseries.png) for utility outage trends
+- [outputs/figures/ercot_county_winter_storm_choropleth.png](outputs/figures/ercot_county_winter_storm_choropleth.png) for the geographic storm exposure view
 
 ## Current outputs
 
-- [ercot_utility_winter_risk_panel.csv](/Users/jakeschwartz/543-Project/data/processed/ercot_utility_winter_risk_panel.csv)
+- [ercot_utility_winter_risk_panel.csv](data/processed/ercot_utility_winter_risk_panel.csv)
   - Main utility-year panel combining outage, storm, weather, and revenue variables
-- [ercot_outage_model_predictions.csv](/Users/jakeschwartz/543-Project/data/processed/ercot_outage_model_predictions.csv)
+- [ercot_outage_model_predictions.csv](data/processed/ercot_outage_model_predictions.csv)
   - In-sample predictions from the exploratory linear outage model
-- [ercot_uri_like_scenario_2024.csv](/Users/jakeschwartz/543-Project/data/processed/ercot_uri_like_scenario_2024.csv)
+- [ercot_uri_like_scenario_2024.csv](data/processed/ercot_uri_like_scenario_2024.csv)
   - Scenario table estimating recent lost-revenue exposure under URI-like winter conditions
-- [analysis_summary.md](/Users/jakeschwartz/543-Project/docs/analysis_summary.md)
+- [analysis_summary.md](docs/analysis_summary.md)
   - Human-readable summary of findings and caveats
-- [ercot_county_winter_storm_choropleth.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_county_winter_storm_choropleth.png)
+- [ercot_county_winter_storm_choropleth.png](outputs/figures/ercot_county_winter_storm_choropleth.png)
   - County-level map of winter-season storm event counts
-- [ercot_utility_saidi_timeseries.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_utility_saidi_timeseries.png)
+- [ercot_utility_saidi_timeseries.png](outputs/figures/ercot_utility_saidi_timeseries.png)
   - Utility outage trends over time
-- [ercot_delivery_rate_timeseries.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_delivery_rate_timeseries.png)
+- [ercot_delivery_rate_timeseries.png](outputs/figures/ercot_delivery_rate_timeseries.png)
   - Delivery revenue per MWh over time
-- [ercot_outage_model_coefficients.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_outage_model_coefficients.png)
+- [ercot_outage_model_coefficients.png](outputs/figures/ercot_outage_model_coefficients.png)
   - Coefficients from the exploratory outage model
-- [ercot_uri_like_lost_revenue.png](/Users/jakeschwartz/543-Project/outputs/figures/ercot_uri_like_lost_revenue.png)
+- [ercot_uri_like_lost_revenue.png](outputs/figures/ercot_uri_like_lost_revenue.png)
   - Utility comparison of incremental lost revenue in the URI-like scenario
 
 ## Dependencies
 
-The scripts currently rely on a standard scientific Python stack that is already available in the working environment used for this repo:
+Install dependencies with `pip install -r requirements.txt`. The scripts require:
 
 - `pandas`
 - `numpy`
